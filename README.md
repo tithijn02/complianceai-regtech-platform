@@ -104,4 +104,4 @@ ComplianceAI enables:
 
 ## 📄 Full Case Study
 
-👉 [View Report](./report.pdf)
+👉 [View Report](./Report.pdf)
